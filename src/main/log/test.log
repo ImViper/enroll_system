@@ -1,0 +1,11 @@
+18:13:08.102 [restartedMain] INFO  org.enroll.EnrollSystemApplication - Starting EnrollSystemApplication on DESKTOP-AQCVQSN with PID 3176 (D:\idea_project\admissionsystem_backend-master\target\classes started by ASUS in D:\idea_project\admissionsystem_backend-master)
+18:13:08.123 [restartedMain] INFO  org.enroll.EnrollSystemApplication - No active profile set, falling back to default profiles: default
+18:13:10.531 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:13:10.532 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+18:13:10.533 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+18:13:10.809 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:13:11.270 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+18:13:11.798 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+18:13:12.817 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:13:12.858 [restartedMain] INFO  org.enroll.EnrollSystemApplication - Started EnrollSystemApplication in 5.299 seconds (JVM running for 7.974)
+18:13:18.945 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
